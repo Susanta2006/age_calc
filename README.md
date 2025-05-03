@@ -1,8 +1,11 @@
-Desclaimer: Please don't Believe on fork version,if you use fork version and it not works then I am not responsible because the fork version is not mine, someone else have created it.
+# Age Calculator:
+This a tool that can tell you the exact age.
+# Desclaimer: 
+Please don't Believe on fork version,if you use fork version and it not works then I am not responsible because the fork version is not mine, someone else have created it.
 
 The original version is here.
 
-Working:
+# Working:
 
 First of all download all the requirements into your machine by typing : pip install -r requirement.txt, on your terminal, this will downloads all the modules required.
 
@@ -25,7 +28,7 @@ Follow the Steps:
 3. Then follow the rest of the step as mentioned above.
 YOU DO NOT NEED TO BE CONNECTED TO INTERNET.
 
-Images:
+# Images:
 ![Screenshot 2025-05-03 003742](https://github.com/user-attachments/assets/4d2403db-8c17-423f-b116-39ab8a2ca349)
 **********************************************************************************************************************************************************************************************************
 
@@ -35,6 +38,6 @@ Images:
 ![Screenshot 2025-05-03 003853](https://github.com/user-attachments/assets/cab4d851-9e47-41f7-a810-69b370fb25f0)
 **********************************************************************************************************************************************************************************************************
 
-IF ANYONE LIKES IT PLEASE DONATE A LITTLE ON GPAY:
+# IF ANYONE LIKES IT PLEASE DONATE A LITTLE ON GPAY:
 
 ![gpay-qr](https://github.com/user-attachments/assets/b77b0f6b-b7ee-45d4-8f7c-ab645a0eb5ea)
