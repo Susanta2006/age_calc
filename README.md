@@ -1,6 +1,12 @@
 # Age Calculator:
 This a tool that can tell you the exact age.
 # Desclaimer: 
+© 2025 Susanta Banik. All Rights Reserved.
+
+This software is proprietary and protected by copyright law.
+
+Unauthorized use, reproduction, or distribution is strictly prohibited.
+
 Please don't Believe on fork version,if you use fork version and it not works then I am not responsible because the fork version is not mine, someone else have created it.
 
 The original version is here.
