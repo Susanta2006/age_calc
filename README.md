@@ -37,7 +37,3 @@ YOU DO NOT NEED TO BE CONNECTED TO INTERNET.
 
 ![Screenshot 2025-05-03 003853](https://github.com/user-attachments/assets/cab4d851-9e47-41f7-a810-69b370fb25f0)
 **********************************************************************************************************************************************************************************************************
-
-# IF ANYONE LIKES IT PLEASE DONATE A LITTLE ON GPAY:
-
-![gpay-qr](https://github.com/user-attachments/assets/b77b0f6b-b7ee-45d4-8f7c-ab645a0eb5ea)
